@@ -1,1 +1,2 @@
-# Disease-Prediction-System
+The Disease Prediction System leveraging Decision Tree, Naive Bayes, KNN and Random Forest classifiers is a state-of-the-art healthcare solution designed to forecast the onset of diseases by analyzing extensive patient data. 
+In the evolving landscape of healthcare, early detection and preventive measures are critical to improving patient outcomes and reducing medical costs. This system aims to address these needs by employing advanced machine learning algorithms to deliver accurate and timely predictions.
